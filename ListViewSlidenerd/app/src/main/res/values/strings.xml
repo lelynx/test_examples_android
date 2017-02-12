@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListViewSlidenerd</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_ShowContactListActivity">AutreActivity</string>
+    <string name="action_ShowWeekDaysActivity">Week Days Activity</string>
+
+<string-array name="title">
+    <item>Lundi</item>
+    <item>Mardi</item>
+    <item>Mercredi</item>
+    <item>Jeudi</item>
+    <item>Vendredi</item>
+    <item>Samedi</item>
+    <item>Dimanche</item>
+</string-array>
+<string-array name="description">
+    <item>Le premier jour de la semaine</item>
+    <item>Le deuxième jour de la semaine</item>
+    <item>Le troisième jour de la semaine</item>
+    <item>Le quatrième jour de la semaine</item>
+    <item>Le cinquième jour de la semaine</item>
+    <item>Le sixième jour de la semaine</item>
+    <item>Le dernier jour de la semaine</item>
+</string-array>
+</resources>

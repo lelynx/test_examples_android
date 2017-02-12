@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="example.course.android.listviewslidenerd.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mnuShowContactListActivity"
+        android:orderInCategory="100"
+        android:title="@string/action_ShowContactListActivity"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/mnuShowWeekDaysActivity"
+        android:orderInCategory="100"
+        android:title="@string/action_ShowWeekDaysActivity"
+        app:showAsAction="always"/>
+</menu>
